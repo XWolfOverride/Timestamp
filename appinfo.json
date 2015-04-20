@@ -4,14 +4,14 @@
         ""
     ],
     "companyName": "xwolfoverride@gmail.com",
-    "longName": "Timestamp Alone",
+    "longName": "Timestamp Hex",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "2",
     "shortName": "Timestamp",
-    "uuid": "68ca308e-fee0-4ca2-b171-28ce86f544c7",
+    "uuid": "68ca308e-fee0-4ca2-b171-28ce86f544c8",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {

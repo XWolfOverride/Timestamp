@@ -9,7 +9,7 @@ static void update_time() {
   // Create a long-lived buffer
   static char buffer[] = "           ";
 
-  snprintf(buffer, sizeof(buffer), "%u", temp);
+  snprintf(buffer, sizeof(buffer), "%X", temp);
   // Display this time on the TextLayer
   text_layer_set_text(s_time_layer, buffer);
 }
